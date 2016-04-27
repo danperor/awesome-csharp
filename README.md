@@ -1,4 +1,5 @@
 A collection of awesome .NET libraries, tools, frameworks, and software.
+come from https://github.com/quozd/awesome-dotnet.git
 
 Inspired by awesome-ruby, awesome-php, awesome-python, frontend-dev-bookmarks and ruby-bookmarks.
 
